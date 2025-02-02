@@ -1,0 +1,26 @@
+RAM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+EEPROM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                                          Register  Size
+------------------------------------------------------------------------------------------------
+i                                                                                 R4,R5        2
+
+FLASH Allocation [words]
+Function                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+menampilkan                                                                       0x00045      3
+nadaC                                                                             0x00048     16
+nadaD                                                                             0x00058     16
+nadaE                                                                             0x00068     16
+nadaF                                                                             0x00078     16
+nadaG                                                                             0x00088     16
+nadaA                                                                             0x00098     16
+nadaB                                                                             0x000A8     18
+nadaH                                                                             0x000BA     18
+main                                                                              0x000CC     86
